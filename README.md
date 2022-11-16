@@ -105,7 +105,7 @@ $ baguette
 ```bash
 
 $ echo "cat testfile" | ./hsh
-
+$ echo "cat testfile"
 This is a test file
 
 ```
