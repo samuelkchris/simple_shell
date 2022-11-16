@@ -110,7 +110,7 @@ This is a test file
 
 ```
 ## Authors
-
+## Authors
 
 
 ### Samuel Ssekizinvu
