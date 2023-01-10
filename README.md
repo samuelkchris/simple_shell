@@ -4,15 +4,13 @@
 
 ## Description
 
-This team project is part of the first year curriculum of Alx School.
-
 Simple Shell is a command line interpreter that replicates the **sh** program on Linux.
 
 It can take in simple commands to navigate the terminal, manipulate files, and execute programs.
 
 
 
-What we learned:
+Goal:
 
 * How a shell works and finds commands
 
